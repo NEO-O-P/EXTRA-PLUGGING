@@ -1,1 +1,12 @@
-# EXTRA-PLUGGING
+apscheduler
+bing-image-urls
+gTTS
+googlesearch-python
+httpx[http2]
+pyfiglet
+lexica-api
+MukeshAPI
+SafoneAPI
+nekos.py
+telegraph
+uuid
